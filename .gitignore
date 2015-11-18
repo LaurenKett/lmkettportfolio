@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 *.sass-cache*
 *.log
@@ -8,3 +9,18 @@ assets/javascript/vendor/
 assets/javascript/foundation.js
 assets/javascript/custom/demosite.js
 packaged/
+=======
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+>>>>>>> a6a607b27165ba6b661e252d94823d2acc162927
